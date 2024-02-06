@@ -16,8 +16,7 @@
 
                     {{ __('You are logged in!') }}
                         <hr>
-                    <p>If you Have Role of SuperAdmin, Admin, Manager, then you can see Admin Panel Link.</p>
-                    <p>Are you a User, Then this is your destination.</p>
+                 
                 </div>
             </div>
         </div>

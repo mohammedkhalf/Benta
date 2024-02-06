@@ -6,8 +6,7 @@
                     © <script>
                         document.write(new Date().getFullYear())
                     </script>,
-                    made with &nbsp;<i style="color: red" class="fa fa-heart"></i>&nbsp; by
-                    <a href="" class="font-weight-bold" target="_blank">R Cube Dev</a>
+                    Benta Arabia 
                 </div>
             </div>
             <div class="col-lg-6">

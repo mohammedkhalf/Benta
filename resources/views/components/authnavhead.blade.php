@@ -9,7 +9,7 @@
     </div>
     <div class="justify-content-center">
         <a class="navbar-brand font-weight-bolder text-lg ms-3">
-           Dash UI - Laravel Starter
+           Benta Arabia
         </a>
     </div>
     <div class="justify-content-end">

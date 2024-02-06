@@ -15,7 +15,7 @@ class Index extends Controller
     }
 
     public function index(FlasherInterface $flasher) {
-        $flasher->addSuccess('Welcome '. auth()->user()->name . '!', 'Dash UI' );
+        $flasher->addSuccess('Welcome '. auth()->user()->name . '!', 'Benta Arabia' );
         return view('admin.index');
     }
 }

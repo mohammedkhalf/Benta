@@ -12,7 +12,7 @@
                                  <h5 class="text-success text-gradient">Register</h5>
                             </div>
                             <!-- Icons of Social Login -->
-                            <div class="row px-xl-5 px-sm-4 px-3">
+                            <!--div class="row px-xl-5 px-sm-4 px-3">
                                 <div class="col-3 ms-auto px-1">
                                     <a class="btn btn-outline-light w-100" href="javascript:;">
                                         <svg width="24px" height="32px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink32">
@@ -55,7 +55,7 @@
                                         or
                                     </p>
                                 </div>
-                            </div>
+                            </div-->
                             <!-- End of Icons of Social Login -->
                             <div class="card-body">
                                 <form method="POST" action="{{ route('register') }}" role="form text-left">
@@ -103,7 +103,7 @@
                         <p class="text-secondary text-center pt-5">
                             Copyright © <script>
                                 document.write(new Date().getFullYear())
-                            </script> Dash UI - Laravel Starter
+                            </script> Benta Arabia
                         </p>
                     </div>
                     <div class="col-md-6">

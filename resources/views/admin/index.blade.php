@@ -13,7 +13,7 @@
 @section('content')
 
     <div class="row">
-        <h5>Card Example</h5>
+        <h5>Statistic</h5>
         <div class="col-xl-3 col-sm-6 mb-xl-0 mb-4">
             <div class="card">
                 <div class="card-body p-3">
@@ -103,7 +103,7 @@
             </div>
         </div>
     </div>
-    <div class="row mt-4">
+    <!-- <div class="row mt-4">
         <h5>Layouts</h5>
         <div class="col-lg-7 mb-lg-0 mb-4">
             <div class="card">
@@ -282,7 +282,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="row my-4">
         <h5>Tables & Order Design</h5>
         <div class="col-lg-8 col-md-6 mb-md-0 mb-4">
